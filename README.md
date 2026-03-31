@@ -1,7 +1,7 @@
 # SuperClaw 🦞
 
 <p align="center">
-  <img src="docs/banner.png" alt="SuperClaw Virtual Office" width="800" />
+  <img src="docs/logo.png" alt="SuperClaw" width="200" />
 </p>
 
 <p align="center"><b>会自我进化的 AI 助手 · Telegram 驱动 · 内置 300+ Skills</b></p>
