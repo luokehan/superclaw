@@ -221,7 +221,7 @@ skills/
 - **实时监控** — Token 用量、费用图表、协作连线
 - **聊天界面** — 直接从 UI 向 Agent 发消息
 
-![Virtual Office 3D](docs/screenshots/office-3d.png)
+
 
 ---
 
